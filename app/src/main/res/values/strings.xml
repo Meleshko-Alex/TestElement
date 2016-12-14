@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestElement</string>
+    <string name="top_fragment">Top Fragment</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string-array name="sex">
+        <item>Men</item>
+        <item>Women</item>
+    </string-array>
+
+</resources>
